@@ -1,4 +1,4 @@
-# Secure CAN Controller with Integrated IDS  
+# SecCAN : Secure CAN Controller with Integrated IDS  
 
 This repository contains the hardware implementation of a **Secure CAN Controller** with an **Integrated Intrusion Detection System (IDS)**. The design features the ability to flag suspicious messages for the receiving ECU, enhancing the security of the Controller Area Network (CAN).  
 
